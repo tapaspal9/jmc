@@ -1,16 +1,17 @@
 # Site settings
 title: Jedike Mon Chay
-email: ""
+email: "jedikemonchay@gmail.com"
 description: "Photo Journal"
 url: "https://tapaspal9.github.io"
 baseurl: "/jmc"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+facebook_username: "jedikemonchay"
+#twitter_username: ""
+instagram_username: "jedikemonchay19"
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
+youtube_username: "jedikemonchay6784"
 share: true
 
 # Owner/author information
